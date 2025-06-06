@@ -51,3 +51,4 @@ Relate bugs, envie melhorias ou ideias via pull request ou e-mail.
 ## Observações Finais
 - Os valores devem ser inseridos sem símbolos como "R$" ou separadores de milhar.
 - A validação básica garante que apenas números sejam aceitos, mas melhorias como formatação automática podem ser implementadas.
+- Projeto inspirado no <a href="https://www.udemy.com/course/curso-de-javascript-html-e-css-projetos-reais/">Curso de javascript</a>
